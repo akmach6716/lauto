@@ -8,6 +8,9 @@ import java.time.Duration;
 
 public class BrowserFactory {
     public static WebDriver driver;
+    public static WebDriver getDriver() {
+        return driver;
+    }
 
     public static WebDriver startBrowser(String Browsername, String appURL) {
         if (Browsername.equalsIgnoreCase("chrome")) {

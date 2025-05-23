@@ -16,7 +16,7 @@ public class LoginPage {
     {
          driver.findElement(userName).sendKeys(uname);
          driver.findElement(password).sendKeys(pwd);
-         driver.findElement(submitbutton).click();
+        // driver.findElement(submitbutton).click();
     }
     public boolean isLoggedIn()
     {

@@ -4,8 +4,5 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public class Utility {
-    public static void selectValueFromList(WebDriver driver, By locator,)
-    {
 
-    }
 }

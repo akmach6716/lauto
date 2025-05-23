@@ -1,0 +1,32 @@
+[
+  {
+    "searchKey" :"Asus1",
+     "productName":"laptop1",
+    "imageCount":"2",
+     "brand":"Intel1"
+  },
+  {
+    "searchKey" :"Asus2",
+    "productName":"laptop2",
+    "imageCount":"3",
+    "brand":"Intel2"
+  },
+  {
+    "searchKey" :"Asus3",
+    "productName":"laptop3",
+    "imageCount":"4",
+    "brand":"Intel3"
+  },
+  {
+    "searchKey" :"Asus4",
+    "productName":"laptop4",
+    "imageCount":"5",
+    "brand":"Intel4"
+  },
+  {
+    "searchKey" :"Asus5",
+    "productName":"laptop5",
+    "imageCount":"6",
+    "brand":"Intel5"
+  }
+]
